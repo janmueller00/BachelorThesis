@@ -1,0 +1,283 @@
+{
+  "First Party Collection/Use__Does/Does Not": {
+    "values": [
+      "Does",
+      "Does Not"
+    ],
+    "num_classes": 2,
+    "category": "First Party Collection/Use",
+    "attribute": "Does/Does Not"
+  },
+  "First Party Collection/Use__Personal Information Type": {
+    "values": [
+      "Unspecified",
+      "Generic personal information",
+      "Cookies and tracking elements",
+      "Contact",
+      "User online activities",
+      "IP address and device IDs",
+      "Computer information",
+      "Location",
+      "Demographic",
+      "Financial",
+      "User profile",
+      "Other sensitive"
+    ],
+    "num_classes": 12,
+    "category": "First Party Collection/Use",
+    "attribute": "Personal Information Type"
+  },
+  "First Party Collection/Use__Purpose": {
+    "values": [
+      "Unspecified",
+      "Basic service/feature",
+      "Analytics/Research",
+      "Additional service/feature",
+      "Personalization/Customization",
+      "Advertising",
+      "Marketing",
+      "Service Operation and Security",
+      "Other"
+    ],
+    "num_classes": 9,
+    "category": "First Party Collection/Use",
+    "attribute": "Purpose"
+  },
+  "First Party Collection/Use__Choice Type": {
+    "values": [
+      "Unspecified",
+      "Opt-in",
+      "Opt-out",
+      "Privacy controls",
+      "Dont use service/feature"
+    ],
+    "num_classes": 5,
+    "category": "First Party Collection/Use",
+    "attribute": "Choice Type"
+  },
+  "First Party Collection/Use__Choice Scope": {
+    "values": [
+      "Unspecified",
+      "Collection",
+      "Use",
+      "Both"
+    ],
+    "num_classes": 4,
+    "category": "First Party Collection/Use",
+    "attribute": "Choice Scope"
+  },
+  "Third Party Sharing/Collection__Does/Does Not": {
+    "values": [
+      "Does",
+      "Does Not"
+    ],
+    "num_classes": 2,
+    "category": "Third Party Sharing/Collection",
+    "attribute": "Does/Does Not"
+  },
+  "Third Party Sharing/Collection__Third Party Entity": {
+    "values": [
+      "Unnamed third party",
+      "Named third party",
+      "Affiliate",
+      "Unspecified",
+      "Public",
+      "Other"
+    ],
+    "num_classes": 6,
+    "category": "Third Party Sharing/Collection",
+    "attribute": "Third Party Entity"
+  },
+  "Third Party Sharing/Collection__Personal Information Type": {
+    "values": [
+      "Unspecified",
+      "Generic personal information",
+      "Cookies and tracking elements",
+      "User online activities",
+      "Contact",
+      "IP address and device IDs",
+      "Financial",
+      "Health",
+      "Computer information",
+      "User profile",
+      "Other sensitive"
+    ],
+    "num_classes": 11,
+    "category": "Third Party Sharing/Collection",
+    "attribute": "Personal Information Type"
+  },
+  "Third Party Sharing/Collection__Purpose": {
+    "values": [
+      "Unspecified",
+      "Advertising",
+      "Basic service/feature",
+      "Additional service/feature",
+      "Service operation and security",
+      "Marketing",
+      "Legal requirement",
+      "Analytics/Research",
+      "Merger/Acquisition",
+      "Other"
+    ],
+    "num_classes": 10,
+    "category": "Third Party Sharing/Collection",
+    "attribute": "Purpose"
+  },
+  "Third Party Sharing/Collection__Choice Type": {
+    "values": [
+      "Unspecified",
+      "Opt-in",
+      "Opt-out",
+      "Privacy controls",
+      "Dont use service/feature"
+    ],
+    "num_classes": 5,
+    "category": "Third Party Sharing/Collection",
+    "attribute": "Choice Type"
+  },
+  "Third Party Sharing/Collection__Choice Scope": {
+    "values": [
+      "Unspecified",
+      "Collection",
+      "Use",
+      "Both"
+    ],
+    "num_classes": 4,
+    "category": "Third Party Sharing/Collection",
+    "attribute": "Choice Scope"
+  },
+  "User Choice/Control__Choice Type": {
+    "values": [
+      "Opt-out",
+      "Opt-in",
+      "Privacy controls",
+      "Dont use service/feature",
+      "Unspecified"
+    ],
+    "num_classes": 5,
+    "category": "User Choice/Control",
+    "attribute": "Choice Type"
+  },
+  "User Choice/Control__Choice Scope": {
+    "values": [
+      "First party use",
+      "First party collection",
+      "Third party sharing/collection",
+      "Third party use",
+      "Unspecified"
+    ],
+    "num_classes": 5,
+    "category": "User Choice/Control",
+    "attribute": "Choice Scope"
+  },
+  "User Choice/Control__Personal Information Type": {
+    "values": [
+      "Unspecified",
+      "Contact",
+      "Cookies and tracking elements",
+      "Generic personal information",
+      "Other"
+    ],
+    "num_classes": 5,
+    "category": "User Choice/Control",
+    "attribute": "Personal Information Type"
+  },
+  "User Choice/Control__Purpose": {
+    "values": [
+      "Unspecified",
+      "Marketing",
+      "Advertising",
+      "Basic service/feature",
+      "Additional service/feature",
+      "Other"
+    ],
+    "num_classes": 6,
+    "category": "User Choice/Control",
+    "attribute": "Purpose"
+  },
+  "User Access, Edit and Deletion__Access Type": {
+    "values": [
+      "Edit information",
+      "View",
+      "Delete account",
+      "None",
+      "Other",
+      "Unspecified"
+    ],
+    "num_classes": 6,
+    "category": "User Access, Edit and Deletion",
+    "attribute": "Access Type"
+  },
+  "User Access, Edit and Deletion__Access Scope": {
+    "values": [
+      "User account data",
+      "Other data",
+      "Unspecified"
+    ],
+    "num_classes": 3,
+    "category": "User Access, Edit and Deletion",
+    "attribute": "Access Scope"
+  },
+  "Data Retention__Retention Period": {
+    "values": [
+      "Unspecified",
+      "Limited",
+      "Indefinitely"
+    ],
+    "num_classes": 3,
+    "category": "Data Retention",
+    "attribute": "Retention Period"
+  },
+  "Data Security__Security Measure": {
+    "values": [
+      "Generic",
+      "Specific",
+      "Unspecified"
+    ],
+    "num_classes": 3,
+    "category": "Data Security",
+    "attribute": "Security Measure"
+  },
+  "Policy Change__Change Type": {
+    "values": [
+      "Unspecified",
+      "Privacy relevant change",
+      "Other"
+    ],
+    "num_classes": 3,
+    "category": "Policy Change",
+    "attribute": "Change Type"
+  },
+  "Policy Change__Notification Type": {
+    "values": [
+      "Personal notice",
+      "General notice",
+      "No notification",
+      "Unspecified"
+    ],
+    "num_classes": 4,
+    "category": "Policy Change",
+    "attribute": "Notification Type"
+  },
+  "Policy Change__User Choice": {
+    "values": [
+      "Unspecified",
+      "Has choice",
+      "None"
+    ],
+    "num_classes": 3,
+    "category": "Policy Change",
+    "attribute": "User Choice"
+  },
+  "International and Specific Audiences__Audience Type": {
+    "values": [
+      "Children",
+      "Californians",
+      "International",
+      "Other"
+    ],
+    "num_classes": 4,
+    "category": "International and Specific Audiences",
+    "attribute": "Audience Type"
+  }
+}
