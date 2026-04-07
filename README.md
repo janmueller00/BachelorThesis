@@ -65,6 +65,10 @@ python train_llama.py
 **Note:** The best performing checkpoint was checkpoint-100 (approximately 0.5 epochs). Use `LORA_PATH = "./models/llama_checkpoints/checkpoint-100"` in `llama_inference.py` to load it.
 
 ### Step 4 - Inference and Scoring
+Both model checkpoints are available at:
+
+https://www.dropbox.com/scl/fo/dudvecd58kas4494cx8g2/AI9tBpdY3IxdPhXeiXTLloo?rlkey=0u0yfndtbils6q1q6jv5lltjd&st=do31djle&dl=0
+
 
 Run LegalBERT inference on a policy file:
 
