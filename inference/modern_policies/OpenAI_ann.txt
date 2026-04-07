@@ -1,0 +1,37 @@
+0,International and Specific Audiences
+0,First Party Collection/Use
+0,Data Security
+1,First Party Collection/Use
+2,First Party Collection/Use
+3,First Party Collection/Use
+4,First Party Collection/Use
+5,First Party Collection/Use
+6,First Party Collection/Use
+6,Third Party Sharing/Collection
+7,Third Party Sharing/Collection
+8,Third Party Sharing/Collection
+9,Third Party Sharing/Collection
+9,Data Retention
+10,Data Retention
+10,"User Access, Edit and Deletion"
+11,Data Retention
+11,"User Access, Edit and Deletion"
+11,User Choice/Control
+12,User Choice/Control
+12,"User Access, Edit and Deletion"
+13,User Choice/Control
+13,International and Specific Audiences
+14,Data Security
+14,International and Specific Audiences
+14,First Party Collection/Use
+15,First Party Collection/Use
+16,First Party Collection/Use
+16,Third Party Sharing/Collection
+17,Third Party Sharing/Collection
+17,User Choice/Control
+17,"User Access, Edit and Deletion"
+18,"User Access, Edit and Deletion"
+19,Policy Change
+19,International and Specific Audiences
+20,International and Specific Audiences
+

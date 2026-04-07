@@ -1,0 +1,526 @@
+OPP-115 Frequency Analysis (threshold: 0.75)
+
+
+
+CATEGORY FREQUENCIES:
+First Party Collection/Use                      8074
+Third Party Sharing/Collection                  4750
+User Choice/Control                             1663
+Data Security                                    697
+User Access, Edit and Deletion                   680
+International and Specific Audiences             522
+Policy Change                                    459
+Data Retention                                   331
+
+
+ATTRIBUTE VALUE FREQUENCIES:
+
+ Data Retention >> Personal Information Type
+    Unspecified                                       94  *** BELOW THRESHOLD ***
+    Generic personal information                      67  *** BELOW THRESHOLD ***
+    Contact                                           33  *** BELOW THRESHOLD ***
+    Other                                             30  *** BELOW THRESHOLD ***
+    Cookies and tracking elements                     24  *** BELOW THRESHOLD ***
+    User online activities                            21  *** BELOW THRESHOLD ***
+    IP address and device IDs                         20  *** BELOW THRESHOLD ***
+    User profile                                      15  *** BELOW THRESHOLD ***
+    Financial                                         11  *** BELOW THRESHOLD ***
+    Computer information                               5  *** BELOW THRESHOLD ***
+    Personal identifier                                3  *** BELOW THRESHOLD ***
+    Location                                           2  *** BELOW THRESHOLD ***
+    Social media data                                  2  *** BELOW THRESHOLD ***
+    Demographic                                        2  *** BELOW THRESHOLD ***
+    Survey data                                        1  *** BELOW THRESHOLD ***
+    Health                                             1  *** BELOW THRESHOLD ***
+
+ Data Retention >> Retention Period
+    Unspecified                                      158 
+    Limited                                           88  *** BELOW THRESHOLD ***
+    Stated Period                                     38  *** BELOW THRESHOLD ***
+    Indefinitely                                      26  *** BELOW THRESHOLD ***
+    Other                                             21  *** BELOW THRESHOLD ***
+
+ Data Retention >> Retention Purpose
+    Unspecified                                      119 
+    Perform service                                   84  *** BELOW THRESHOLD ***
+    Legal requirement                                 40  *** BELOW THRESHOLD ***
+    Service operation and security                    34  *** BELOW THRESHOLD ***
+    Other                                             24  *** BELOW THRESHOLD ***
+    Analytics/Research                                20  *** BELOW THRESHOLD ***
+    Marketing                                          6  *** BELOW THRESHOLD ***
+    Advertising                                        4  *** BELOW THRESHOLD ***
+
+ Data Security >> Security Measure
+    Generic                                          255 
+    Data access limitation                            98  *** BELOW THRESHOLD ***
+    Other                                             98  *** BELOW THRESHOLD ***
+    Secure data transfer                              88  *** BELOW THRESHOLD ***
+    Privacy/Security program                          47  *** BELOW THRESHOLD ***
+    Secure data storage                               38  *** BELOW THRESHOLD ***
+    Secure user authentication                        32  *** BELOW THRESHOLD ***
+    Privacy review/audit                              25  *** BELOW THRESHOLD ***
+    Unspecified                                       10  *** BELOW THRESHOLD ***
+    Privacy training                                   6  *** BELOW THRESHOLD ***
+
+ First Party Collection/Use >> Action First-Party
+    Unspecified                                     3341 
+    Collect on website                              3020 
+    Other                                            674 
+    Receive from other service/third-party (unnamed)    344 
+    Collect in mobile app                            289 
+    Receive from other service/third-party (named)    160 
+    Track user on other websites                      97  *** BELOW THRESHOLD ***
+    Collect from user on other websites               68  *** BELOW THRESHOLD ***
+    Receive from other parts of company/affiliates     44  *** BELOW THRESHOLD ***
+    Collect on mobile website                         37  *** BELOW THRESHOLD ***
+
+ First Party Collection/Use >> Choice Scope
+    Unspecified                                     4568 
+    not-selected                                    2315 
+    Collection                                       870 
+    Use                                              205 
+    Both                                             116 
+
+ First Party Collection/Use >> Choice Type
+    Unspecified                                     4320 
+    not-selected                                    2000 
+    Opt-in                                           758 
+    Dont use service/feature                         433 
+    Browser/device privacy controls                  232 
+    Other                                            117 
+    Opt-out link                                      79  *** BELOW THRESHOLD ***
+    Third-party privacy controls                      57  *** BELOW THRESHOLD ***
+    Opt-out via contacting company                    42  *** BELOW THRESHOLD ***
+    First-party privacy controls                      36  *** BELOW THRESHOLD ***
+
+ First Party Collection/Use >> Collection Mode
+    Unspecified                                     2141 
+    Implicit                                        2136 
+    not-selected                                    2035 
+    Explicit                                        1762 
+
+ First Party Collection/Use >> Does/Does Not
+    Does                                            7824 
+    Does Not                                         250 
+
+ First Party Collection/Use >> Identifiability
+    Unspecified                                     3654 
+    not-selected                                    2238 
+    Identifiable                                    1277 
+    Aggregated or anonymized                         731 
+    Other                                            174 
+
+ First Party Collection/Use >> Personal Information Type
+    Unspecified                                     1681 
+    Generic personal information                    1033 
+    Cookies and tracking elements                   1020 
+    Contact                                          919 
+    User online activities                           731 
+    IP address and device IDs                        548 
+    Computer information                             412 
+    Location                                         365 
+    Demographic                                      326 
+    Financial                                        303 
+    Other                                            280 
+    User profile                                     162 
+    Health                                            84  *** BELOW THRESHOLD ***
+    Personal identifier                               80  *** BELOW THRESHOLD ***
+    Social media data                                 71  *** BELOW THRESHOLD ***
+    Survey data                                       59  *** BELOW THRESHOLD ***
+
+ First Party Collection/Use >> Purpose
+    Unspecified                                     2331 
+    Basic service/feature                           1165 
+    Analytics/Research                              1093 
+    Additional service/feature                       862 
+    Personalization/Customization                    630 
+    Advertising                                      582 
+    Marketing                                        563 
+    Service Operation and Security                   514 
+    Other                                            230 
+    Legal requirement                                 95  *** BELOW THRESHOLD ***
+    Merger/Acquisition                                 9  *** BELOW THRESHOLD ***
+
+ First Party Collection/Use >> User Type
+    Unspecified                                     5134 
+    not-selected                                    2243 
+    User with account                                449 
+    Other                                            166 
+    User without account                              82  *** BELOW THRESHOLD ***
+
+ International and Specific Audiences >> Audience Type
+    Children                                         269 
+    Californians                                     112 
+    Citizens from other countries                     74  *** BELOW THRESHOLD ***
+    Europeans                                         37  *** BELOW THRESHOLD ***
+    Other                                             30  *** BELOW THRESHOLD ***
+
+ Policy Change >> Change Type
+    Unspecified                                      228 
+    Privacy relevant change                          187 
+    Non-privacy relevant change                       20  *** BELOW THRESHOLD ***
+    In case of merger or acquisition                  15  *** BELOW THRESHOLD ***
+    Other                                              9  *** BELOW THRESHOLD ***
+
+ Policy Change >> Notification Type
+    General notice in privacy policy                 152 
+    General notice on website                         98  *** BELOW THRESHOLD ***
+    Personal notice                                   88  *** BELOW THRESHOLD ***
+    Unspecified                                       82  *** BELOW THRESHOLD ***
+    Other                                             24  *** BELOW THRESHOLD ***
+    No notification                                   15  *** BELOW THRESHOLD ***
+
+ Policy Change >> User Choice
+    Unspecified                                      334 
+    None                                              56  *** BELOW THRESHOLD ***
+    User participation                                32  *** BELOW THRESHOLD ***
+    Opt-in                                            19  *** BELOW THRESHOLD ***
+    Opt-out                                            9  *** BELOW THRESHOLD ***
+    Other                                              9  *** BELOW THRESHOLD ***
+
+ Third Party Sharing/Collection >> Action Third Party
+    Receive/Shared with                             3135 
+    Track on first party website/app                 417 
+    Collect on first party website/app               396 
+    Unspecified                                      324 
+    Other                                            305 
+    See                                              173 
+
+ Third Party Sharing/Collection >> Choice Scope
+    Unspecified                                     2838 
+    not-selected                                    1314 
+    Collection                                       286 
+    Use                                              235 
+    Both                                              77  *** BELOW THRESHOLD ***
+
+ Third Party Sharing/Collection >> Choice Type
+    Unspecified                                     2688 
+    not-selected                                    1052 
+    Opt-in                                           448 
+    Dont use service/feature                         112 
+    Opt-out link                                     108 
+    Third-party privacy controls                      93  *** BELOW THRESHOLD ***
+    Opt-out via contacting company                    88  *** BELOW THRESHOLD ***
+    Other                                             79  *** BELOW THRESHOLD ***
+    Browser/device privacy controls                   46  *** BELOW THRESHOLD ***
+    First-party privacy controls                      36  *** BELOW THRESHOLD ***
+
+ Third Party Sharing/Collection >> Does/Does Not
+    Does                                            4376 
+    Does Not                                         374 
+
+ Third Party Sharing/Collection >> Identifiability
+    Unspecified                                     2218 
+    not-selected                                    1223 
+    Identifiable                                     696 
+    Aggregated or anonymized                         551 
+    Other                                             62  *** BELOW THRESHOLD ***
+
+ Third Party Sharing/Collection >> Personal Information Type
+    Unspecified                                     1476 
+    Generic personal information                    1213 
+    Cookies and tracking elements                    408 
+    User online activities                           368 
+    Contact                                          290 
+    Other                                            180 
+    IP address and device IDs                        142 
+    Financial                                        131 
+    Health                                           127 
+    Computer information                             110 
+    User Profile                                     107 
+    Demographic                                       76  *** BELOW THRESHOLD ***
+    Location                                          71  *** BELOW THRESHOLD ***
+    Personal identifier                               26  *** BELOW THRESHOLD ***
+    Survey data                                       25  *** BELOW THRESHOLD ***
+
+ Third Party Sharing/Collection >> Purpose
+    Unspecified                                     1186 
+    Advertising                                      756 
+    Basic service/feature                            482 
+    Additional service/feature                       397 
+    Service operation and security                   384 
+    Marketing                                        363 
+    Legal requirement                                359 
+    Analytics/Research                               351 
+    Merger/Acquisition                               219 
+    Other                                            177 
+    Personalization/Customization                     76  *** BELOW THRESHOLD ***
+
+ Third Party Sharing/Collection >> Third Party Entity
+    Unnamed third party                             2200 
+    Named third party                               1381 
+    Unspecified                                      519 
+    Other part of company/affiliate                  372 
+    Public                                           128 
+    Other                                             76  *** BELOW THRESHOLD ***
+    Other users                                       74  *** BELOW THRESHOLD ***
+
+ Third Party Sharing/Collection >> User Type
+    Unspecified                                     3255 
+    not-selected                                    1283 
+    User with account                                133 
+    Other                                             65  *** BELOW THRESHOLD ***
+    User without account                              14  *** BELOW THRESHOLD ***
+
+ User Access, Edit and Deletion >> Access Scope
+    User account data                                283 
+    Unspecified                                      213 
+    Profile data                                      65  *** BELOW THRESHOLD ***
+    Other                                             46  *** BELOW THRESHOLD ***
+    Other data about user                             45  *** BELOW THRESHOLD ***
+    Transactional data                                28  *** BELOW THRESHOLD ***
+
+ User Access, Edit and Deletion >> Access Type
+    Edit information                                 341 
+    View                                             107 
+    Delete account (partial)                          67  *** BELOW THRESHOLD ***
+    Other                                             64  *** BELOW THRESHOLD ***
+    Unspecified                                       41  *** BELOW THRESHOLD ***
+    Delete account (full)                             32  *** BELOW THRESHOLD ***
+    Deactivate account                                18  *** BELOW THRESHOLD ***
+    None                                               9  *** BELOW THRESHOLD ***
+    Export                                             1  *** BELOW THRESHOLD ***
+
+ User Access, Edit and Deletion >> User Type
+    Unspecified                                      265 
+    User with account                                248 
+    not-selected                                     133 
+    Other                                             26  *** BELOW THRESHOLD ***
+    User without account                               8  *** BELOW THRESHOLD ***
+
+ User Choice/Control >> Choice Scope
+    First party use                                  603 
+    Unspecified                                      379 
+    First party collection                           278 
+    Third party sharing/collection                   277 
+    Third party use                                  126 
+
+ User Choice/Control >> Choice Type
+    Opt-out link                                     288 
+    Opt-out via contacting company                   248 
+    Opt-in                                           234 
+    Browser/device privacy controls                  232 
+    Unspecified                                      180 
+    First-party privacy controls                     140 
+    Dont use service/feature                         135 
+    Other                                            122 
+    Third-party privacy controls                      84  *** BELOW THRESHOLD ***
+
+ User Choice/Control >> Personal Information Type
+    Unspecified                                      593 
+    Contact                                          373 
+    Cookies and tracking elements                    252 
+    Generic personal information                     199 
+    Other                                             60  *** BELOW THRESHOLD ***
+    User online activities                            44  *** BELOW THRESHOLD ***
+    Health                                            36  *** BELOW THRESHOLD ***
+    Location                                          30  *** BELOW THRESHOLD ***
+    User profile                                      29  *** BELOW THRESHOLD ***
+    Demographic                                       12  *** BELOW THRESHOLD ***
+    Personal identifier                               11  *** BELOW THRESHOLD ***
+    Financial                                         10  *** BELOW THRESHOLD ***
+    Social media data                                  6  *** BELOW THRESHOLD ***
+    Computer information                               5  *** BELOW THRESHOLD ***
+    Survey data                                        2  *** BELOW THRESHOLD ***
+    IP address and device IDs                          1  *** BELOW THRESHOLD ***
+
+ User Choice/Control >> Purpose
+    Unspecified                                      570 
+    Marketing                                        464 
+    Advertising                                      214 
+    Basic service/feature                            137 
+    Additional service/feature                       121 
+    Other                                             60  *** BELOW THRESHOLD ***
+    Personalization/Customization                     40  *** BELOW THRESHOLD ***
+    Service Operation and Security                    21  *** BELOW THRESHOLD ***
+    Legal requirement                                 18  *** BELOW THRESHOLD ***
+    Analytics/Research                                15  *** BELOW THRESHOLD ***
+    Merger/Acquisition                                 3  *** BELOW THRESHOLD ***
+
+ User Choice/Control >> User Type
+    Unspecified                                     1009 
+    not-selected                                     422 
+    User with account                                169 
+    Other                                             41  *** BELOW THRESHOLD ***
+    User without account                              22  *** BELOW THRESHOLD ***
+
+
+SUMMARY: VALUES BELOW THRESHOLD
+
+ 117 values flagged:
+
+  Data Retention >> Personal Information Type
+    - Computer information: 5
+    - Contact: 33
+    - Cookies and tracking elements: 24
+    - Demographic: 2
+    - Financial: 11
+    - Generic personal information: 67
+    - Health: 1
+    - IP address and device IDs: 20
+    - Location: 2
+    - Other: 30
+    - Personal identifier: 3
+    - Social media data: 2
+    - Survey data: 1
+    - Unspecified: 94
+    - User online activities: 21
+    - User profile: 15
+
+  Data Retention >> Retention Period
+    - Indefinitely: 26
+    - Limited: 88
+    - Other: 21
+    - Stated Period: 38
+
+  Data Retention >> Retention Purpose
+    - Advertising: 4
+    - Analytics/Research: 20
+    - Legal requirement: 40
+    - Marketing: 6
+    - Other: 24
+    - Perform service: 84
+    - Service operation and security: 34
+
+  Data Security >> Security Measure
+    - Data access limitation: 98
+    - Other: 98
+    - Privacy review/audit: 25
+    - Privacy training: 6
+    - Privacy/Security program: 47
+    - Secure data storage: 38
+    - Secure data transfer: 88
+    - Secure user authentication: 32
+    - Unspecified: 10
+
+  First Party Collection/Use >> Action First-Party
+    - Collect from user on other websites: 68
+    - Collect on mobile website: 37
+    - Receive from other parts of company/affiliates: 44
+    - Track user on other websites: 97
+
+  First Party Collection/Use >> Choice Type
+    - First-party privacy controls: 36
+    - Opt-out link: 79
+    - Opt-out via contacting company: 42
+    - Third-party privacy controls: 57
+
+  First Party Collection/Use >> Personal Information Type
+    - Health: 84
+    - Personal identifier: 80
+    - Social media data: 71
+    - Survey data: 59
+
+  First Party Collection/Use >> Purpose
+    - Legal requirement: 95
+    - Merger/Acquisition: 9
+
+  First Party Collection/Use >> User Type
+    - User without account: 82
+
+  International and Specific Audiences >> Audience Type
+    - Citizens from other countries: 74
+    - Europeans: 37
+    - Other: 30
+
+  Policy Change >> Change Type
+    - In case of merger or acquisition: 15
+    - Non-privacy relevant change: 20
+    - Other: 9
+
+  Policy Change >> Notification Type
+    - General notice on website: 98
+    - No notification: 15
+    - Other: 24
+    - Personal notice: 88
+    - Unspecified: 82
+
+  Policy Change >> User Choice
+    - None: 56
+    - Opt-in: 19
+    - Opt-out: 9
+    - Other: 9
+    - User participation: 32
+
+  Third Party Sharing/Collection >> Choice Scope
+    - Both: 77
+
+  Third Party Sharing/Collection >> Choice Type
+    - Browser/device privacy controls: 46
+    - First-party privacy controls: 36
+    - Opt-out via contacting company: 88
+    - Other: 79
+    - Third-party privacy controls: 93
+
+  Third Party Sharing/Collection >> Identifiability
+    - Other: 62
+
+  Third Party Sharing/Collection >> Personal Information Type
+    - Demographic: 76
+    - Location: 71
+    - Personal identifier: 26
+    - Survey data: 25
+
+  Third Party Sharing/Collection >> Purpose
+    - Personalization/Customization: 76
+
+  Third Party Sharing/Collection >> Third Party Entity
+    - Other: 76
+    - Other users: 74
+
+  Third Party Sharing/Collection >> User Type
+    - Other: 65
+    - User without account: 14
+
+  User Access, Edit and Deletion >> Access Scope
+    - Other: 46
+    - Other data about user: 45
+    - Profile data: 65
+    - Transactional data: 28
+
+  User Access, Edit and Deletion >> Access Type
+    - Deactivate account: 18
+    - Delete account (full): 32
+    - Delete account (partial): 67
+    - Export: 1
+    - None: 9
+    - Other: 64
+    - Unspecified: 41
+
+  User Access, Edit and Deletion >> User Type
+    - Other: 26
+    - User without account: 8
+
+  User Choice/Control >> Choice Type
+    - Third-party privacy controls: 84
+
+  User Choice/Control >> Personal Information Type
+    - Computer information: 5
+    - Demographic: 12
+    - Financial: 10
+    - Health: 36
+    - IP address and device IDs: 1
+    - Location: 30
+    - Other: 60
+    - Personal identifier: 11
+    - Social media data: 6
+    - Survey data: 2
+    - User online activities: 44
+    - User profile: 29
+
+  User Choice/Control >> Purpose
+    - Analytics/Research: 15
+    - Legal requirement: 18
+    - Merger/Acquisition: 3
+    - Other: 60
+    - Personalization/Customization: 40
+    - Service Operation and Security: 21
+
+  User Choice/Control >> User Type
+    - Other: 41
+    - User without account: 22
+DATASET SIZE OVERVIEW:
+
+Total policies: 114
+Total annotations (all): 19517
+Annotations after filtering: 17176

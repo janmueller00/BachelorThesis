@@ -1,0 +1,25 @@
+0,First Party Collection/Use
+1,User Choice/Control
+1,Policy Change
+1,First Party Collection/Use
+2,First Party Collection/Use
+3,First Party Collection/Use
+3,User Choice/Control
+4,First Party Collection/Use
+5,First Party Collection/Use
+5,User Choice/Control
+5,Third Party Sharing/Collection
+6,International and Specific Audiences
+6,User Choice/Control55
+7,First Party Collection/Use
+8,International and Specific Audiences
+8,User Choice/Control
+9,Third Party Sharing/Collection
+9,User Choice/Control
+10,Third Party Sharing/Collection
+11,"User Access, Edit and Deletion"
+11,Data Retention
+12,Data Security
+14,International and Specific Audiences
+14,First Party Collection/Use
+16,Third Party Sharing/Collection

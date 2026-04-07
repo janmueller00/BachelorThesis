@@ -1,0 +1,74 @@
+0,First Party Collection/Use
+0,Third Party Sharing/Collection
+1,International and Specific Audiences
+1,"User Access, Edit and Deletion"
+2,Third Party Sharing/Collection
+3,"User Access, Edit and Deletion"
+3,User Choice/Control
+3,Third Party Sharing/Collection
+4,Third Party Sharing/Collection
+5,First Party Collection/Use
+5,Third Party Sharing/Collection
+5,"User Access, Edit and Deletion"
+6,First Party Collection/Use
+7,First Party Collection/Use
+7,Third Party Sharing/Collection
+7,"User Access, Edit and Deletion"
+8,First Party Collection/Use
+8,Third Party Sharing/Collection
+9,First Party Collection/Use
+10,First Party Collection/Use
+10,Data Retention
+11,First Party Collection/Use
+11,Third Party Sharing/Collection
+11,Data Retention
+12,First Party Collection/Use
+12,Third Party Sharing/Collection
+13,First Party Collection/Use
+13,Third Party Sharing/Collection
+13,User Choice/Control
+14,First Party Collection/Use
+14,User Choice/Control
+15,First Party Collection/Use
+15,Third Party Sharing/Collection
+15,User Choice/Control
+16,First Party Collection/Use
+16,Third Party Sharing/Collection
+17,Third Party Sharing/Collection
+18,First Party Collection/Use
+18,Third Party Sharing/Collection
+19,First Party Collection/Use
+19,Third Party Sharing/Collection
+20,First Party Collection/Use
+20,Third Party Sharing/Collection
+21,First Party Collection/Use
+21,Third Party Sharing/Collection
+21,User Choice/Control
+22,Third Party Sharing/Collection
+23,Third Party Sharing/Collection
+24,Data Security
+25,Data Retention
+26,User Choice/Control
+26,International and Specific Audiences
+27,"User Access, Edit and Deletion"
+27,Data Retention
+28,User Choice/Control
+29,User Choice/Control
+30,User Choice/Control
+31,"User Access, Edit and Deletion"
+32,"User Access, Edit and Deletion"
+32,Data Retention
+33,User Choice/Control
+34,User Choice/Control
+35,User Choice/Control
+39,International and Specific Audiences
+40,International and Specific Audiences
+40,First Party Collection/Use
+41,International and Specific Audiences
+42,First Party Collection/Use
+42,Third Party Sharing/Collection
+42,User Choice/Control
+42,International and Specific Audiences
+43,"User Access, Edit and Deletion"
+44,International and Specific Audiences
+45,Policy Change
